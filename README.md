@@ -1,6 +1,6 @@
-# Polkadash
+# Tetsydash
 
-The Polkadot Dashboard
+The Tetcoin Dashboard
 
 ## Screenshot
 
